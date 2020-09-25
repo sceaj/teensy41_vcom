@@ -1,0 +1,12 @@
+usb_device_cdc_acm.c:50:21:USB_DeviceCdcAcmAllocateHandle	24	static
+usb_device_cdc_acm.c:73:21:USB_DeviceCdcAcmFreeHandle	16	static
+usb_device_cdc_acm.c:92:21:USB_DeviceCdcAcmInterruptIn	32	static
+usb_device_cdc_acm.c:126:21:USB_DeviceCdcAcmBulkIn	32	static
+usb_device_cdc_acm.c:161:21:USB_DeviceCdcAcmBulkOut	32	static
+usb_device_cdc_acm.c:194:21:USB_DeviceCdcAcmEndpointsInit	80	static
+usb_device_cdc_acm.c:337:21:USB_DeviceCdcAcmEndpointsDeinit	24	static
+usb_device_cdc_acm.c:374:14:USB_DeviceCdcAcmEvent	104	static
+usb_device_cdc_acm.c:675:14:USB_DeviceCdcAcmInit	32	static
+usb_device_cdc_acm.c:738:14:USB_DeviceCdcAcmDeinit	24	static
+usb_device_cdc_acm.c:785:14:USB_DeviceCdcAcmSend	40	static
+usb_device_cdc_acm.c:847:14:USB_DeviceCdcAcmRecv	32	static

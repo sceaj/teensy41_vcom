@@ -1,0 +1,10 @@
+serial_manager.c:823:25:SerialManager_Init	16	static
+serial_manager.c:944:25:SerialManager_Deinit	8	static
+serial_manager.c:1004:25:SerialManager_OpenWriteHandle	16	static
+serial_manager.c:1031:25:SerialManager_CloseWriteHandle	8	static
+serial_manager.c:1062:25:SerialManager_OpenReadHandle	16	static
+serial_manager.c:1094:25:SerialManager_CloseReadHandle	8	static
+serial_manager.c:1123:25:SerialManager_WriteBlocking	0	static
+serial_manager.c:1132:25:SerialManager_ReadBlocking	0	static
+serial_manager.c:1325:25:SerialManager_EnterLowpower	0	static
+serial_manager.c:1360:25:SerialManager_ExitLowpower	0	static

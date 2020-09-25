@@ -1,0 +1,10 @@
+usb_device_class.c:136:21:USB_DeviceClassAllocateHandle	24	static
+usb_device_class.c:179:21:USB_DeviceClassFreeHandle	24	static
+usb_device_class.c:214:21:USB_DeviceClassGetHandleByControllerId	24	static
+usb_device_class.c:247:21:USB_DeviceClassGetHandleByDeviceHandle	24	static
+usb_device_class.c:278:14:USB_DeviceClassGetDeviceHandle	24	static
+usb_device_class.c:312:14:USB_DeviceClassEvent	40	static
+usb_device_class.c:373:14:USB_DeviceClassCallback	32	static
+usb_device_class.c:417:14:USB_DeviceClassInit	40	static
+usb_device_class.c:481:14:USB_DeviceClassDeinit	24	static
+usb_device_class.c:532:14:USB_DeviceClassGetSpeed	24	static

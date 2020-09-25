@@ -1,0 +1,12 @@
+usb_device_ch9.c:119:21:USB_DeviceCh9GetStatus	32	static
+usb_device_ch9.c:202:21:USB_DeviceCh9SetClearFeature	32	static
+usb_device_ch9.c:309:21:USB_DeviceCh9SetAddress	32	static
+usb_device_ch9.c:362:21:USB_DeviceCh9GetDescriptor	48	static
+usb_device_ch9.c:465:21:USB_DeviceCh9GetConfiguration	32	static
+usb_device_ch9.c:499:21:USB_DeviceCh9SetConfiguration	32	static
+usb_device_ch9.c:543:21:USB_DeviceCh9GetInterface	32	static
+usb_device_ch9.c:582:21:USB_DeviceCh9SetInterface	32	static
+usb_device_ch9.c:620:21:USB_DeviceCh9SynchFrame	32	static
+usb_device_ch9.c:671:21:USB_DeviceControlCallbackFeedback	32	static
+usb_device_ch9.c:725:21:USB_DeviceControlCallback	168	static
+usb_device_ch9.c:929:14:USB_DeviceControlPipeInit	40	static

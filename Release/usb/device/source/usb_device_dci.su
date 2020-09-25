@@ -1,0 +1,17 @@
+usb_device_dci.c:342:21:USB_DeviceControl	0	static
+usb_device_dci.c:261:21:USB_DeviceTransfer	40	static
+usb_device_dci.c:648:14:USB_DeviceNotificationTrigger	32	static
+usb_device_dci.c:803:14:USB_DeviceRun	0	static
+usb_device_dci.c:819:14:USB_DeviceStop	0	static
+usb_device_dci.c:833:14:USB_DeviceDeinit	24	static
+usb_device_dci.c:704:14:USB_DeviceInit	32	static
+usb_device_dci.c:887:14:USB_DeviceSendRequest	0	static
+usb_device_dci.c:919:14:USB_DeviceRecvRequest	0	static
+usb_device_dci.c:939:14:USB_DeviceCancel	0	static
+usb_device_dci.c:978:14:USB_DeviceInitEndpoint	16	static
+usb_device_dci.c:1028:14:USB_DeviceDeinitEndpoint	24	static
+usb_device_dci.c:1082:14:USB_DeviceStallEndpoint	16	static
+usb_device_dci.c:1107:14:USB_DeviceUnstallEndpoint	16	static
+usb_device_dci.c:1134:14:USB_DeviceGetStatus	0	static
+usb_device_dci.c:1198:14:USB_DeviceSetStatus	0	static
+usb_device_dci.c:1336:6:USB_DeviceGetVersion	0	static

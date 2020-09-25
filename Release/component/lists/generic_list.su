@@ -1,0 +1,13 @@
+generic_list.c:16:22:LIST_Error_Check	0	static
+generic_list.c:62:6:LIST_Init	0	static
+generic_list.c:85:15:LIST_GetList	0	static
+generic_list.c:106:15:LIST_AddTail	16	static
+generic_list.c:152:15:LIST_AddHead	16	static
+generic_list.c:198:23:LIST_RemoveHead	12	static
+generic_list.c:246:23:LIST_GetHead	0	static
+generic_list.c:266:23:LIST_GetNext	0	static
+generic_list.c:286:23:LIST_GetPrev	0	static
+generic_list.c:310:15:LIST_RemoveElement	8	static
+generic_list.c:381:15:LIST_AddPrevElement	24	static
+generic_list.c:453:10:LIST_GetSize	0	static
+generic_list.c:472:10:LIST_GetAvailableSize	0	static
